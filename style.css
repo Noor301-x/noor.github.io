@@ -1,0 +1,53 @@
+/* General page styling */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #fdf6f9;
+  color: #333;
+  text-align: center;
+}
+
+/* Header */
+header {
+  background: #ffb6c1;
+  padding: 20px;
+}
+header h1 {
+  margin: 0;
+  font-size: 2.5em;
+}
+header p {
+  margin: 5px 0 0;
+  font-style: italic;
+}
+
+/* Main content */
+main {
+  padding: 30px;
+}
+main h2 {
+  margin-bottom: 20px;
+}
+main ul {
+  list-style: none;
+  padding: 0;
+}
+main li {
+  margin: 10px 0;
+}
+main a {
+  text-decoration: none;
+  color: #d6336c;
+  font-weight: bold;
+}
+main a:hover {
+  color: #800040;
+}
+
+/* Footer */
+footer {
+  background: #ffb6c1;
+  padding: 10px;
+  margin-top: 30px;
+}
